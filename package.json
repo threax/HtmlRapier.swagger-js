@@ -1,13 +1,12 @@
 {
   "name": "htmlrapier.swagger-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "dependencies": {
-
+    "swagger-client": "~2.1.22"
   },
   "devDependencies": {
     "gulp-build-shortcuts": "threax/gulp-build-shortcuts",
-    "jsns": "^1.0.0",
-    "swagger-client": "~2.1.22"
+    "jsns": "^1.0.0"
   }
 }
