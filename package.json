@@ -6,7 +6,8 @@
     "swagger-client": "~2.1.22"
   },
   "devDependencies": {
-    "gulp-build-shortcuts": "threax/gulp-build-shortcuts",
-    "jsns": "^1.0.0"
+    "threax-gulp-tk": "^1.2.2",
+    "jsns": "^1.0.0",
+    "htmlrapier": "^1.2.1"
   }
 }
