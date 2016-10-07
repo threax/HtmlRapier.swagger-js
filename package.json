@@ -1,13 +1,13 @@
 {
   "name": "htmlrapier.swagger-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "dependencies": {
-    "swagger-client": "~2.1.22"
+    "swagger-client": "~2.1.22",
+    "htmlrapier": "^1.2.1"
   },
   "devDependencies": {
     "threax-gulp-tk": "^1.2.2",
-    "jsns": "^1.0.0",
-    "htmlrapier": "^1.2.1"
+    "jsns": "^1.0.0"
   }
 }
